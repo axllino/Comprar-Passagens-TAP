@@ -151,4 +151,4 @@ sleep(2)
 # driver.execute_script('arguments[0].click()', botao_radio)
 # botao_radio.send_keys(Keys.DOWN)
 
-input('Aperte uma tecla para fechar')
+input('Aperte uma tecla para fechar ok')
